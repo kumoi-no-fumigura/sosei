@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/sosei",
  "yomi": "そせいほうししゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集（他撰）",
+  "era": "平安前期",
+  "author": "素性",
+  "desc": "三十六歌仙の一人素性法師の歌を集めた家集。四季の歌を中心に、古今集などに入った歌を収め、集名を注記する。"
+ },
  "editions": [
   {
    "pid": "1879527",
@@ -1226,6 +1231,6 @@
   "poems": 105,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T00:07:02+09:00"
+  "updated_at": "2026-10-30T08:19:37+09:00"
  }
 }
